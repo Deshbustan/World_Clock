@@ -23,3 +23,8 @@ Flutter: For structuring and styling the front-end.
 3. User accounts to save preferred cities.
 4. Displaying additional information like date and weather for each city.
 5. Better and easier way to find and select a location.
+
+# To Run:
+
+Make sure you have dart and flutter installed, just put the following command in main.dart file:
+flutter run -d chrome
